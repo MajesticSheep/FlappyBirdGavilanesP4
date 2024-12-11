@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9d5d59c6aa4c3344ba3d08c008faf298
+guid: 261f784df6b11174db399d8871b92e41
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -162,64 +162,64 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Soul Sprites_0
+      name: Soul Sprites (3)_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 220
-        width: 198
-        height: 220
+        y: 0
+        width: 143.33333
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 51f14856e5c79264ba8dd33dd79c5a74
-      internalID: -141248011
+      spriteID: 4330de3fab1951d44832faf029451543
+      internalID: -759651704
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soul Sprites_1
+      name: Soul Sprites (3)_1
       rect:
         serializedVersion: 2
-        x: 0
+        x: 143
         y: 0
-        width: 198
-        height: 220
+        width: 143.33333
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1984535dc0c90e4795c22a469b949a0
-      internalID: 2042809227
+      spriteID: da8c8889a8dbf2543a639ada72393742
+      internalID: -1818766381
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soul Sprites_2
+      name: Soul Sprites (3)_2
       rect:
         serializedVersion: 2
-        x: 198
+        x: 286
         y: 0
-        width: 198
-        height: 220
+        width: 143.33333
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af5b6bb32f495da4094b06517238adfb
-      internalID: 779685559
+      spriteID: 57953df95db202649914ee81db011d1a
+      internalID: 1849761620
       vertices: []
       indices: 
       edges: []
@@ -235,9 +235,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Soul Sprites_0: -141248011
-      Soul Sprites_1: 2042809227
-      Soul Sprites_2: 779685559
+      Soul Sprites (3)_0: -759651704
+      Soul Sprites (3)_1: -1818766381
+      Soul Sprites (3)_2: 1849761620
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
